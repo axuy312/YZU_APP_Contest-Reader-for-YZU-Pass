@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reader</string>
+    <string-array name="place">
+        <item>圖書館</item>
+        <item>宿舍</item>
+    </string-array>
+</resources>
