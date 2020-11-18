@@ -3,4 +3,4 @@
 # *此為輔助APP*
 
 主要專案說明: 
-[Github](https://github.com/axuy312/YZU_APP_Contest-YZUApp/blob/master/README.md)
+[Github](https://github.com/axuy312/YZU_APP_Contest-YZUPass)
